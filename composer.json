@@ -1,0 +1,30 @@
+{
+    "name": "duongtannhu/laravel-xhprof",
+    "description": "Xhprof is a profiler for laravel which based on Tideway profiler",
+    "keywords": ["laravel", "framework", "profiler", "debuger", "xhprof", "tideway"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nhu Duong",
+            "email": "duongtannhu@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "NhuDuong\\Xhprof\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    },
+    "extra": {
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
