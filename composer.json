@@ -3,6 +3,7 @@
     "description": "Xhprof is a profiler for laravel which based on Tideway profiler",
     "keywords": ["laravel", "framework", "profiler", "debuger", "xhprof", "tideway"],
     "license": "MIT",
+	"version": "0.1.0",
     "authors": [
         {
             "name": "Nhu Duong",
