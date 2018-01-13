@@ -1,5 +1,5 @@
 {
-    "name": "duongtannhu/laravel-xhprof",
+    "name": "nhu-duong/laravel-xhprof",
     "description": "Xhprof is a profiler for laravel which based on Tideway profiler",
     "keywords": ["laravel", "framework", "profiler", "debuger", "xhprof", "tideway"],
     "license": "MIT",
